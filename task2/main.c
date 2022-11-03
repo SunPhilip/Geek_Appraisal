@@ -18,6 +18,7 @@ int main()
     //对输入的字符串进行记录，对字符的总个数count以及各个字符的出现次数arr_small[]进行统计
     char str[100]={'A','A','A','B','B','C','C','C','C'};
     printf("Please Enter the string\n");
+    printf("AAABBCCCC\n");
     //scanf("%s", str); 
     int arr_big[27] = {0};//各个字符的出现次数  
     int count = 0;  //字符的总个数
